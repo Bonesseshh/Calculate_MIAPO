@@ -34,16 +34,6 @@ namespace Calculator
             }
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            string str = (string)((Button)e.OriginalSource).Content;
-
-            if (str == "AC")
-            {
-                textLabel.Text = "";
-            }
-            
-            
-        }
+       
     }
 }
