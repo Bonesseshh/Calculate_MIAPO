@@ -42,7 +42,11 @@ namespace Calculator
             {
                 textLabel.Text = "";
             }
-         
+            else if(str == "=")
+            {
+                string value = new DataTable().Compute(textLabel.Text, null).ToString();
+                textLabel.Text = value;
+            }
             
             
         }
