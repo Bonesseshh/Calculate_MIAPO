@@ -27,10 +27,7 @@ namespace Calculator
             
             foreach(UIElement el in MainRoot.Children)
             {
-                if(el is Button)
-                {
-                    ((Button) el).Click += Button_Click;
-                }
+                
             }
         }
 
