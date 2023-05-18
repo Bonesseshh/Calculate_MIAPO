@@ -42,6 +42,7 @@ namespace Calculator
             {
                 textLabel.Text = "";
             }
+         
             
             
         }
