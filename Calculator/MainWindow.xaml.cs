@@ -30,6 +30,10 @@ namespace Calculator
                 if(el is Button)
                 {
                     ((Button) el).Click += Button_Click;
+<<<<<<< HEAD
+=======
+                    +1
+>>>>>>> 89a49195d692444e8800d681ce839359a3c920b4
                 }
             }
         }
