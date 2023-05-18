@@ -1,6 +1,1 @@
-Start design
-<<<<<<< HEAD
 Work end
-=======
-Start
->>>>>>> 619b82ca8e6c277885e622cf674dfb7f9cc0d9ee
