@@ -49,7 +49,7 @@ namespace Calculator
             }
             else
             {
-                
+                textLabel.Text += str;
             }
             
         }
