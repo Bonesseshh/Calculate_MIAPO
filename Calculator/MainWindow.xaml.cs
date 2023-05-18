@@ -47,7 +47,10 @@ namespace Calculator
                 string value = new DataTable().Compute(textLabel.Text, null).ToString();
                 textLabel.Text = value;
             }
-            
+            else
+            {
+                
+            }
             
         }
     }
